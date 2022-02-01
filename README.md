@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @iClarify
+- 👀 I’m interested in minecraft and just gaming in general
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on mc clients
+- 📫 How to reach me iClarify#7684 on discord and iclarify124@gmail.com through email
+- 📈 currently working on skyline client (redesky, ncp, and verus based)
